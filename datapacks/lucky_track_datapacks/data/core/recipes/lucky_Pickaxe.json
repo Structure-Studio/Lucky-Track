@@ -10,7 +10,7 @@
                 "item": "minecraft:stick"
         },
         "#": {
-                "tag": "cpp:lucky_block"
+                "tag": "core:lucky_block"
         }
     },
     "result": {
